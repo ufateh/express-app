@@ -1,0 +1,48 @@
+[
+    {
+        "name": "Kalles Grustransporter AB",
+        "address": "Cementvägen 8, 111 11 Södertälje",
+        "vehicles": [
+            {
+                "vehicleId": "YS2R4X20005399401",
+                "regNo": "ABC123"
+            },
+            {
+                "vehicleId": "VLUR4X20009093588",
+                "regNo": "DEF456"
+            },
+            {
+                "vehicleId": "VLUR4X20009048067",
+                "regNo": "GHI789"
+            }
+        ]
+    },
+    {
+        "name": "Johans Bulk AB",
+        "address": "Balkvägen 12, 222 22 Stockholm",
+        "vehicles": [
+            {
+                "vehicleId": "YS2R4X20005388011",
+                "regNo": "JKL012"
+            },
+            {
+                "vehicleId": "YS2R4X20005387949",
+                "regNo": "MNO345"
+            }
+        ]
+    },
+    {
+        "name": "Haralds Värdetransporter AB",
+        "address": "Budgetvägen 1, 333 33 Uppsala",
+        "vehicles": [
+            {
+                "vehicleId": "VLUR4X20009048066",
+                "regNo": "PQR678"
+            },
+            {
+                "vehicleId": "YS2R4X20005387055",
+                "regNo": "STU901"
+            }
+        ]
+    }
+]
