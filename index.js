@@ -44,7 +44,7 @@ function simulator(){
             let obj = statusMap.get(id);
             obj.status = status;
             statusMap.set(id,obj);
-        }, 3000);
+        }, 60000);
     }
 }
 
